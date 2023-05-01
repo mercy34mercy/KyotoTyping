@@ -1,0 +1,87 @@
+.result_frame{
+    height: 100%;
+    background-image: url("../assets/city.svg");
+    background-size:cover;
+}
+
+.backtohome{
+    font-family: "Nico Moji";
+    font-size: 4em;
+    color: #008AE2;
+    text-align: center;
+}
+
+.resultkanban{
+    text-align: center;
+    padding-top: 1em;
+}
+
+.resultkanban img{
+    max-width: 35rem;
+    width: 60%;
+}
+
+.result{
+    background-color: #008AE2;
+    width: 60%;
+    max-width: 40rem;
+    height: 60%;
+    max-height: 20rem;
+    border-radius: 2rem;
+    margin:0 auto;
+    padding: 3rem;
+    font-family: "Nico Moji";
+}
+
+p.kana{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p.title{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    text-align: right;
+}
+
+
+.box{
+    max-height: 7em;
+    height: 20%;
+    padding: 1em 2em;
+    margin: 0px 0px;
+}
+
+.title{
+    font-size: 3em;
+    width: 100%;
+}
+
+.kana{
+    font-size: 1.5em;
+}
+.rank_link{
+    width: 80%;
+    text-align: center;
+    border: solid;
+    border-color: white;
+    border-radius: 8px;
+    margin: auto;
+
+}
+
+
+
+.rank_link p{
+    font-size: 3em;
+    color: white;
+    cursor: pointer;
+    cursor: hand;
+}

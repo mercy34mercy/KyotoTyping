@@ -1,0 +1,134 @@
+.startmanuebar{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+        background-image: url("../assets/city.svg");
+            background-size: cover;
+}
+
+.manuebar{
+    height: 50%;
+    width: 100%;
+}
+
+.start{
+    /* height: 50%; */
+    width: 100%;
+}
+
+.login{
+    color: #008AE2;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: right;
+    position: relative;
+}
+
+.loginbutton{
+    margin: 1rem;
+    position: absolute;
+    right: 0;
+    top:0;
+    padding: 1rem;
+    border: 4px solid;
+    border-color: #008AE2;
+    border-radius: 1rem;
+
+    background: transparent;
+    color: #008AE2;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: "Nico Moji";
+}
+
+.displayname {
+    color: #008AE2;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: right;
+    position: relative
+}
+
+.name {
+    margin: 1rem;
+    position: absolute;
+    right: 0;
+    top: 5rem;
+    padding: 1rem;
+    font-family: "Nico Moji";
+}
+.logout {
+    margin: 1rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 1rem;
+    background: transparent;
+    border: 4px solid;
+    border-color: #008AE2;
+    border-radius: 1rem;
+
+    color: #008AE2;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: "Nico Moji";
+}
+
+
+
+.pc-dsp{
+    height: 100%;
+}
+
+.sp-dsp{
+    height: 100%;
+}
+
+.root{
+    background-color: #abd1ea;
+    height: 100%;
+}
+
+.frompc{
+    color: #008AE2;
+    font-size: 3em;
+    text-align: center;
+    padding-top: 60%;
+    height: 100%;
+    font-family: "Nico Moji";
+}
+
+
+
+.startButton{
+    width: 100%;
+    color: #008AE2;
+    text-align: center;
+    font-family: "Nico Moji";
+    font-size: 5rem;
+}
+
+.volumebutton{
+    margin: 1rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 1rem;
+    width: 4rem;
+    color: #008AE2;
+}
+
+
+.volumebutton img{
+    width: 3rem;
+}
+.volumebutton button{
+    width: 3rem;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+p{
+    margin: 0;
+}
